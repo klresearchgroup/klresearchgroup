@@ -123,8 +123,6 @@ body {
 }
 
 
-
-
 /* Contact styling
 ------------------------- */
 .contacticons{
@@ -139,9 +137,17 @@ body {
 	font-size:12px;
 }
 
+/*other styling*/
+
 .btn-colourchange{
 	background-color:grey;
 	border-color:grey;
+}
+
+.black-carouselcaption{
+	color:#404040;
+	text-align:left;
+	text-shadow:1px 1px grey;
 }
 
 /* RESPONSIVE CSS
